@@ -122,10 +122,6 @@ ol {
   outline-offset: 2px;
 }
 
-.search-form__label-text {
-}
-
-
 .search-form__textfield {
   appearance: none;
   border: 1px solid #fff;
