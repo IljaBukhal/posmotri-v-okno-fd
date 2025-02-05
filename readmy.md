@@ -1,1 +1,0 @@
-https://github.com/IljaBukhal/posmotri-v-okno-fd
