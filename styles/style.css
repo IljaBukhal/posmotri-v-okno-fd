@@ -232,6 +232,8 @@ ol {
 
 .content__list-container {
   position: relative;
+  display: grid;
+  row-gap: 30px;
   height: 298px;
   overflow: scroll;
   overflow-x: auto;
@@ -242,7 +244,6 @@ ol {
   flex-direction: column;
   row-gap: 30px;
   padding-top: 2px;
-  margin-bottom: 30px;
 }
 
 .content__list-item {
